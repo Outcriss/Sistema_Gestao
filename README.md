@@ -3,6 +3,7 @@ Sistema de Gestão de Projetos
 Sistema desenvolvido em Java com integração ao banco de dados MySQL para gerenciamento de Usuários, Equipes, Projetos e Tarefas.
 
 Tecnologias Utilizadas
+
 Java 
 MySQL 
 JDBC 
